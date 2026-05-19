@@ -1,1 +1,1 @@
-# Tarot Codex\n\nA beautiful, functional occult app for Tarot readings.
+# Tarot Codex - A beautiful, functional occult app for Tarot readings and learning. Just a concept, playing around. 
